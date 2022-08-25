@@ -1,8 +1,8 @@
 # README
 
-## Check your own repo's vital
+## Check your own repo's dependencies
 
-### Running on a Mac
+####  Running on a Mac
 
 If you want to check to see if your vitals.yaml file is valid in one of your repos, you can use this tool.  While in the top directory of this repo, execute `python3 -m tests.validate_my_repo <repo_org> <repo_name>`
 
